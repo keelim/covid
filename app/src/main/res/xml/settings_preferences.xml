@@ -1,0 +1,12 @@
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory>
+        <Preference
+            app:key="update"
+            app:title="인 앱 업데이트" />
+
+        <Preference
+            app:key="mail"
+            app:title="개발자 문의 메일 보내기" />
+    </PreferenceCategory>
+
+</androidx.preference.PreferenceScreen>
